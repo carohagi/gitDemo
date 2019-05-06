@@ -7,6 +7,7 @@ create or replace package body pkg_name as
      * Author    Date        Description
      * --------  ----------  -------------------------------------------------------*
      * nsdjasd  sdhajksd  ksajdkas
+     * CHageman  06.05.2019  Added
      *******************************************************************************/
     
     -- Kommentar mit Ctrl+Space
